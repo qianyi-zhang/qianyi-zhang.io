@@ -58,7 +58,7 @@ skills:
       - name: ROS
         description: ''
         percent: 100
-        icon: chart-line
+        icon: robot
         icon_pack: fas
       - name: Reinforcement Learning
         description: ''
@@ -77,7 +77,7 @@ skills:
       - name: Skateboarding
         description: ''
         percent: 90
-        icon: cat
+        icon: skateboarding
         icon_pack: fas
       - name: Photography
         description: ''
