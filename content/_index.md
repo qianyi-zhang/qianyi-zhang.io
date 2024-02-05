@@ -65,7 +65,7 @@ sections:
         - title: Motion planning algorithm intern
           company: Huawei
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-x
           location: Beijing
           date_start: '2023-09-01'
           date_end: ''
@@ -74,7 +74,7 @@ sections:
         - title: Decision-making algorithm intern
           company: Meituan
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-x
           location: Beijing
           date_start: '2021-05-01'
           date_end: '2022-03-31'
@@ -228,7 +228,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact Us
       subtitle:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
@@ -249,8 +249,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '38.5856'
-        longitude: '117.1958'  
+        latitude: '38.987076'
+        longitude: '117.347003'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
