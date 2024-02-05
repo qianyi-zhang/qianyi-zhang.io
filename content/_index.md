@@ -65,7 +65,7 @@ sections:
         - title: Motion planning algorithm intern
           company: Huawei
           company_url: ''
-          company_logo: org-x
+          company_logo: huawei
           location: Beijing
           date_start: '2023-09-01'
           date_end: ''
@@ -74,7 +74,7 @@ sections:
         - title: Decision-making algorithm intern
           company: Meituan
           company_url: ''
-          company_logo: org-x
+          company_logo: meituan
           location: Beijing
           date_start: '2021-05-01'
           date_end: '2022-03-31'
@@ -185,17 +185,17 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
     content:
       title: Recent Publications
