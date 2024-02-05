@@ -8,4 +8,5 @@ publication_types:
 - paper-journal
 publication: '*ROBOT*'
 # doi: 10.13973/j.cnki.robot.220405
+url_pdf: https://robot.sia.cn/en/article/doi/10.13973/j.cnki.robot.220405
 ---

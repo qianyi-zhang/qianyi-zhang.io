@@ -14,4 +14,5 @@ publication: '*2022 IEEE International Conference on Robotics and Biomimetics (R
 tags:
 - Image edge detection;Neural networks;Estimation;Human-robot interaction;Feature
   extraction;Multitasking;Real-time systems
+url_pdf: https://ieeexplore.ieee.org/document/10011802
 ---
