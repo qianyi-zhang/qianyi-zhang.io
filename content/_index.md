@@ -65,7 +65,7 @@ sections:
         - title: Motion planning algorithm intern
           company: Huawei
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-huawei
           location: Beijing
           date_start: '2023-09-01'
           date_end: ''
@@ -74,8 +74,8 @@ sections:
         - title: Decision-making algorithm intern
           company: Meituan
           company_url: ''
-          company_logo: org-x
-          location: California
+          company_logo: org-meituan
+          location: Beijing
           date_start: '2021-05-01'
           date_end: '2022-03-31'
           description: For the decision-making of unmanned delivery vehicles in narrow roads, prediction and planning are combined to propose an explorative game theory. The related work was published on IROS2022 and deployed to real vehicles.
@@ -123,33 +123,33 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -230,8 +230,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: arvin.nkzqy@gmail.com
       phone: +86 17612203694
@@ -249,8 +249,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '39.1039'
-        longitude: '117.1742'  
+        latitude: '38.5856'
+        longitude: '117.1958'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
@@ -264,16 +264,16 @@ sections:
       #     icon_pack: fas
       #     name: Zoom Me
       #     link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # # Automatically link email and phone or display as text?
+      # autolink: true
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
