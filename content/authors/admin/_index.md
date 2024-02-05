@@ -22,7 +22,7 @@ role: Candidate PH.D. of Robotics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nankai University
-    url: https://en.nankai.edu.cn/'
+    url: https://en.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include motion planning of mobile robots, decision-making of automated vehicles, and human-robot game theory.
@@ -31,7 +31,7 @@ bio: My research interests include motion planning of mobile robots, decision-ma
 interests:
   - Motion planning of mobile robots
   - Decision-making of automated vehicles
-  - Human-robot game theory
+  - Game theory for human-robot interaction
   - Reinforcement learning in robot navigation
 
 
@@ -50,19 +50,19 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: C++
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: ROS
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Reinforcement Learning
         description: ''
-        percent: 40
+        percent: 70
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -71,17 +71,17 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Skateboarding
         description: ''
-        percent: 100
+        percent: 90
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 100
         icon: camera-retro
         icon_pack: fas
 
@@ -92,22 +92,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    link: 'mailto:arvin.nkzqy@gmail.com'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  - icon: weixin # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 17612203694
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Chris-Arvin
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Qianyi Zhang is a candidate PH.D. of robotics at Institute of Robotics and Automatic Information System, Nankai University, China. His research interests include motion planning of mobile robots, decision-making of automated vehicles, game theory for human-robot interaction, and reinforcement learning in robot navigation. 
 {style="text-align: justify;"}
