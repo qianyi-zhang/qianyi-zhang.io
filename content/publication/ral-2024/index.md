@@ -5,11 +5,11 @@ authors:
 - Jinzheng Guang
 - Zhenzhong Cao
 - Jingtai Liu
-date: '2018-01-01'
+date: '02024-01-01'
 # publishDate: '2024-02-05T16:23:51.355309Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Intelligent Transportation Systems*'
+publication: '*IEEE Transactions on Intelligent Transportation Systems, under review*'
 # doi: 10.1109/TASE.2023.3299962
 # tags:
 # - Trajectory;Robots;Planning;Safety;Dynamics;Collision avoidance;Robot sensing systems;Motion

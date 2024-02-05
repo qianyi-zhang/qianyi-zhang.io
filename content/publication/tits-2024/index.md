@@ -4,11 +4,11 @@ authors:
 - Qianyi Zhang
 - Wentao Luo
 - Jingtai Liu
-date: '2018-01-01'
+date: '02024-01-01'
 # publishDate: '2024-02-05T16:23:51.355309Z'
 publication_types:
 - article-journal
-publication: '*IEEE Robotics and Automation Letters*'
+publication: '*IEEE Robotics and Automation Letters, under review*'
 # doi: 10.1109/TASE.2023.3299962
 # tags:
 # - Trajectory;Robots;Planning;Safety;Dynamics;Collision avoidance;Robot sensing systems;Motion
