@@ -12,7 +12,10 @@ publication_types:
 - paper-conference
 publication: '*2020 IEEE 16th International Conference on Automation Science and Engineering
   (CASE)*'
-doi: 10.1109/CASE48305.2020.9216853
+# doi: 10.1109/CASE48305.2020.9216853
 tags:
 - Heuristic algorithms;Kernel;Corrosion;Planning;Green products;Path planning;Robots
+url_pdf: https://ieeexplore.ieee.org/document/9216853
+url_code: 'https://github.com/Chris-Arvin/GSLST_A-Parallel-Algorithm-Combining-Improved-Connect-RRT-and-JPS-with-Closed-Operation'
+url_video: 'https://youtu.be/aJ_pQ-mW-Os'
 ---

@@ -7,5 +7,5 @@ publishDate: '2024-02-05T16:23:51.390820Z'
 publication_types:
 - paper-conference
 publication: '*ROBOT*'
-doi: 10.13973/j.cnki.robot.220405
+# doi: 10.13973/j.cnki.robot.220405
 ---

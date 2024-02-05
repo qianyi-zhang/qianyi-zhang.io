@@ -13,8 +13,11 @@ publication_types:
 - paper-conference
 publication: '*2022 IEEE International Conference on Real-time Computing and Robotics
   (RCAR)*'
-doi: 10.1109/RCAR54675.2022.9872237
+# doi: 10.1109/RCAR54675.2022.9872237
 tags:
 - Training;Training data;Reinforcement learning;Markov processes;Real-time systems;Safety;Splines
   (mathematics)
+url_pdf: https://ieeexplore.ieee.org/document/9872237
+url_code: 'https://github.com/Chris-Arvin/CG3_The-Human-Gaze-Helps-Robots-Run-Bravely-and-Efficiently-in-Crowds'
+url_video: 'https://youtu.be/rSQ5XIDLZbU'
 ---

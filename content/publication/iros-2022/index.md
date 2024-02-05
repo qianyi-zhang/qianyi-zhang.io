@@ -14,8 +14,11 @@ publication_types:
 - paper-conference
 publication: '*2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
-doi: 10.1109/IROS47612.2022.9981332
+# doi: 10.1109/IROS47612.2022.9981332
 tags:
 - Decision making;Virtual environments;Games;Prediction algorithms;Robustness;Bayes
   methods;Trajectory
+url_pdf: https://ieeexplore.ieee.org/document/9981332
+url_code: 'https://github.com/Chris-Arvin/CG3_The-Human-Gaze-Helps-Robots-Run-Bravely-and-Efficiently-in-Crowds'
+url_video: 'https://youtu.be/Dt9DNDKVRGE'
 ---
