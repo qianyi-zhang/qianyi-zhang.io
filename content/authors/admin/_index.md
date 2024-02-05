@@ -40,10 +40,10 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Nankai University
-      year: 2021
+      year: 2021 - 2026
     - course: BSc in Automation System
       institution: Nankai University
-      year: 2017
+      year: 2017 - 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -99,7 +99,7 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: weixin # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: wechat # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: 17612203694
   - icon: github
