@@ -77,7 +77,7 @@ skills:
       - name: Skateboarding
         description: ''
         percent: 90
-        icon: skateboarding
+        icon: rocket-launch
         icon_pack: fas
       - name: Photography
         description: ''
