@@ -1,7 +1,7 @@
 ---
 title: Socially-aware Robot Navigation Considering Human Gaze-related Area Constraints
 authors:
-- ZHANG Qianyi, ZHAI Xiaolin, WU Shichao, LIU Jingtai HU Zhengxi
+- Zhengxi Hu, Qianyi Zhang, Xiaolin Zhai, Shichao Wu, and Jingtai Liu
 date: '2023-01-01'
 publishDate: '2024-02-05T16:23:51.390820Z'
 publication_types:
