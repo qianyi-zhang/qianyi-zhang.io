@@ -70,7 +70,7 @@ sections:
           date_start: '2023-09-01'
           date_end: ''
           description: |2-
-              For the motion planning of unmanned delivery vehicles in complex dynamic environments, a hybrid loosely coupled perceptionto-planning projection is proposed to make RL agent understand surroundings efficiently and robustly. The related work has been submitted to RAL and deployed to real vehicles.
+              For the motion planning of unmanned delivery vehicles in complex dynamic environments, a hybrid loosely coupled perceptionto-planning projection is proposed to make RL agent understand surroundings efficiently and robustly. The related works have been published to ICRA2025 and submitted to IROS2025.
         - title: Decision-making algorithm intern
           company: Meituan
           company_url: ''

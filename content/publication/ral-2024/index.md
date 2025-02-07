@@ -1,20 +1,20 @@
 ---
-title: A Time-Optimal Tentative Game for Autonomou Vehicles to Efficiently Pass through Narrow Roads
+title: 'STC-TEB: Spatial-Temporally Complete Trajectory Generation Based on Incremental Optimization'
 authors:
-- Qianyi Zhang
-- Jinzheng Guang
-- Zhenzhong Cao
+- Zeqing Zhu
+- Qianyi Zhang (co-first-author)
+- Yinuo Song
+- Yifan Yang
 - Jingtai Liu
-date: '02024-01-01'
-# publishDate: '2024-02-05T16:23:51.355309Z'
+date: '2025-02-01'
+publishDate: '2025-02-05T16:23:51.355309Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Intelligent Transportation Systems, under review*'
+publication: '*IEEE Robotics and Automation Letters*'
 # doi: 10.1109/TASE.2023.3299962
-# tags:
-# - Trajectory;Robots;Planning;Safety;Dynamics;Collision avoidance;Robot sensing systems;Motion
-#   planning;computer graphics;timed elastic band (TEB);homology class of trajectories
-# url_pdf: https://ieeexplore.ieee.org/document/10210322
-# url_code: 'https://github.com/Chris-Arvin/GraphicTEB'
-# url_video: 'https://www.youtube.com/watch?v=SzZGKdbzH9Q'
+tags:
+- Trajectory;Robots;Planning;Safety;Dynamics;Collision avoidance;Robot sensing systems;Motion
+  planning;computer graphics;timed elastic band (TEB);homology class of trajectories
+url_pdf: https://ieeexplore.ieee.org/document/10806849
+url_code: 'https://github.com/Chris-Arvin/GraphicTEB-series'
 ---

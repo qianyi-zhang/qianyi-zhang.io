@@ -3,7 +3,7 @@
 title: 张千一
 
 # Name pronunciation (optional)
-name_pronunciation: Qianyi Zhang
+name_pronunciation: Zhang Qianyi (Kenny)
 
 # Full name (for SEO)
 first_name: Qianyi
@@ -23,6 +23,8 @@ role: Candidate PH.D. of Robotics
 organizations:
   - name: Nankai University
     url: https://en.nankai.edu.cn/
+  - name: University College London
+    url: https://rpl-as-ucl.github.io/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include motion planning of mobile robots, decision-making of automated vehicles, and human-robot game theory.
@@ -41,6 +43,9 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Nankai University
       year: 2021 - 2026
+    - course: Visiting PhD in Robotics Institute
+      institution: University College London
+      year: 2024 - 2025
     - course: BSc in Automation System
       institution: Nankai University
       year: 2017 - 2021

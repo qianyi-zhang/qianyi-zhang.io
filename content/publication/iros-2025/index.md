@@ -1,15 +1,14 @@
 ---
-title: A Time-Optimal Tentative Game for Autonomou Vehicles to Efficiently Pass through Narrow Roads
+title: A Hybrid Loosely Coupled Percaption-to-Planning Projection Method for Robust Navigation
 authors:
 - Qianyi Zhang
-- Jinzheng Guang
-- Zhenzhong Cao
+- Wentao Luo
 - Jingtai Liu
-date: '02024-01-01'
+date: '02025-05-01'
 # publishDate: '2024-02-05T16:23:51.355309Z'
 publication_types:
 - article-journal
-publication: '*IEEE Transactions on Intelligent Transportation Systems, under review*'
+publication: '*IROS2025, under review*'
 # doi: 10.1109/TASE.2023.3299962
 # tags:
 # - Trajectory;Robots;Planning;Safety;Dynamics;Collision avoidance;Robot sensing systems;Motion
